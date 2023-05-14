@@ -1,2 +1,3 @@
 Patch Notes:
-1. A few fixes with app errors.
+1. Reduced auto-rechannel time from 20 minutes down to 10 minutes.
+2. Fixed the "could not retrieve time" error for most users.
