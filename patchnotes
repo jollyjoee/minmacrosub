@@ -1,2 +1,7 @@
 Patch Notes:
-1. Fixed rechannel for CH7
+1. Faster database (Near-instant activation times)
+2. Updated in-app logos
+3. Added auto ECA dungeon
+4. Added auto CA dungeon
+5. Added auto Steamer dungeon
+6. All dungeon scripts are purchased separately from the current package (Multiclient, Premium, Seni, War)
